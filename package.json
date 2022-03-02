@@ -1,0 +1,16 @@
+{
+  "name": "proxy-processor",
+  "version": "1.0.0",
+  "description": "To convert a big proxy file into smaller ones.",
+  "main": "main.js",
+  "dependencies": {
+    "pkg": "^5.5.2",
+    "prompt": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "robin#4221",
+  "license": "ISC"
+}
